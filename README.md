@@ -1,7 +1,6 @@
-
-## Welcome to my profile 👋
-#### Hello! I am Makar, a web developer.
-#### My technology stack:
+# Welcome to my profile 👋
+### Hello! I am Makar, a web developer.
+### My technology stack:
 
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/><img src="https://img.shields.io/badge/Vue 3-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=#4FC08D"/>
 <img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=#E34F26"/><img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=#1572B6"/><img src="https://img.shields.io/badge/SASS-0d1117?style=for-the-badge&logo=sass&logoColor=#CC6699"/><img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4"/>
