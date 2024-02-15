@@ -1,5 +1,10 @@
-# I`m Makar, full-stack developer 👋
-### Hello! I am Makar, a web developer.
+# Hello! I`m Makar, a full-stack developer 👋
+### I have been doing web development for more than three years (including 2 years of commercial experience). I started my career as a coder, then became a full-fledged frontend developer, and over the past year I have learned how to write REST APIs in Laravel and Express.
+
+### I have done several commercial projects on my own - starting from designing and collecting requirements, ending with deploying the application to a remote server.
+
+### I like to explore new technologies and delve into the ones I have already studied.
+
 ### My technology stack:
 
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/><img src="https://img.shields.io/badge/Vue 3-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=#4FC08D"/>
