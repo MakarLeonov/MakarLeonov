@@ -1,4 +1,4 @@
-# Welcome to my profile 👋
+# I`m Makar, full-stack developer 👋
 ### Hello! I am Makar, a web developer.
 ### My technology stack:
 
