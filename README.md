@@ -15,5 +15,5 @@
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=#fff"/><img src="https://img.shields.io/badge/phpMyAdmin-0d1117?style=for-the-badge&logo=phpmyadmin&logoColor=#1572B6"/><img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=#F05032"/><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=#181717"/>
 
 -------
-I’m currently learning the TypeScript<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=typescript&logoColor=#3178C6"/>
+I’m currently learning the TypeScript, Java, Kotlin, React Native, <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=typescript&logoColor=#3178C6"/>
 
